@@ -1,0 +1,26 @@
+{
+  "name": "mocha-bench",
+  "version": "1.0.0",
+  "description": "mocha.js helpers for benchmarking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nailgun/node-mocha-bench.git"
+  },
+  "keywords": [
+    "banchmark",
+    "performance",
+    "test",
+    "mocha",
+    "suite"
+  ],
+  "peerDependencies": {
+    "mocha": ""
+  },
+  "author": "Dmitry Bashkatov <dbashkatov@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
